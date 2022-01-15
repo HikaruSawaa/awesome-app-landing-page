@@ -43,9 +43,8 @@ app:
 #
 # Marketing
 #
-marketing_header: さりげなく友達を誘える # Optional
-marketing_desc: Shiraseにはメッセージで友達とやりとりする機能はなく、「今あなたと何かしたい」ということだけを数人の友達に知らせます。
-気になる人や話したい友達とつながりを深めるきっかけをつくるアプリです。
+marketing_header: "さりげなく友達を誘える" # Optional
+marketing_desc: "Shiraseにはメッセージで友達とやりとりする機能はなく、「今あなたと何かしたい」ということだけを数人の友達に知らせます。気になる人や話したい友達とつながりを深めるきっかけをつくるアプリです。"
 
 #
 # Social Links
